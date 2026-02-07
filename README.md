@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import hasWebAssemblySupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-wasm-support@deno/mod.js';
+import hasWebAssemblySupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-wasm-support@v0.2.3-deno/mod.js';
 ```
 
 #### hasWebAssemblySupport()
@@ -65,7 +65,7 @@ var bool = hasWebAssemblySupport();
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import hasWebAssemblySupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-wasm-support@deno/mod.js';
+import hasWebAssemblySupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-wasm-support@v0.2.3-deno/mod.js';
 
 var bool = hasWebAssemblySupport();
 if ( bool ) {
